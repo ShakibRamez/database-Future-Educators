@@ -1,0 +1,20 @@
+#container .row .left {
+  background-color: rgb(1, 1, 65);
+}
+
+#container .row .left a {
+  text-decoration: none;
+  color: white;
+}
+
+#container .row .left ul li {
+  list-style-type: none;
+  padding-top: 20px;
+  cursor: pointer;
+  color: white;
+}
+
+#container #sidebar {
+  height: 100vh;
+  overflow: auto;
+}
